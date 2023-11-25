@@ -1,3 +1,4 @@
 # Table of contents
 
-* [💻 Ubuntu Setup - Dual Booting (For Windows)](README.md)
+* [📙 Welcome!](README.md)
+* [💻 Ubuntu Setup - Dual Booting (For Windows)](<README (1).md>)
