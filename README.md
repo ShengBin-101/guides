@@ -22,7 +22,7 @@ layout:
 
 # 💻 Ubuntu Setup - Dual Booting (For Windows)
 
-## **Pre-requisites:**
+## **Pre-requisites**
 
 * Windows 11 or Windows 10 running on your PC or Laptop
 * 8GB or higher pen/thumb drive to create a bootable disk with Ubuntu Linux
