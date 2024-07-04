@@ -12,4 +12,12 @@ More to come.
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
+{% content-ref url="ubuntu-setup-windows-subsystem-for-linux-wsl.md" %}
+[ubuntu-setup-windows-subsystem-for-linux-wsl.md](ubuntu-setup-windows-subsystem-for-linux-wsl.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ***

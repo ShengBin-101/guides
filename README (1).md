@@ -32,7 +32,7 @@ layout:
 
 Link to Download Page: [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption><p>Download Page (Ubuntu)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Download Page (Ubuntu)</p></figcaption></figure>
 
 ## Step 2: Download Balena Etcher
 
@@ -43,28 +43,28 @@ In this guide, we will use Balena Etcher.
 
 Link to Download Page: [https://etcher.balena.io/](https://etcher.balena.io/)
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Download Page (Balena Etcher) - Part 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Download Page (Balena Etcher) - Part 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Download Page (Balena Etcher) - Part 2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Download Page (Balena Etcher) - Part 2</p></figcaption></figure>
 
 Once successfully downloaded and installed, you should see this window after launching Balena Etcher.
 
-<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Balena Etcher Interface</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>Balena Etcher Interface</p></figcaption></figure>
 
 ## Step 3: Partition Disk Space for Ubuntu
 
 Press the windows key and type in "disk management", select "open" for <mark style="color:purple;">"Create and format hard disk partitions"</mark>.
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Search for Disk Management on Windows</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>Search for Disk Management on Windows</p></figcaption></figure>
 
 In Disk Management, right click on the partition that you want to split. \
 <mark style="color:blue;">**For me, I right click on C drive and select "Shrink Volume" to shrink a volume of 60GB.**</mark>
 
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>How to Shrink Volume</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>How to Shrink Volume</p></figcaption></figure>
 
 After specifying to shrink 60GB worth of Volume, you should get a new unallocated partition that is of size 60GB. Now we can proceed to flash our Ubuntu ISO image onto our USB drive.
 
-<figure><img src=".gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Final state after shrinking volume</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption><p>Final state after shrinking volume</p></figcaption></figure>
 
 ## Step 4: Flash Ubuntu ISO Image onto USB Drive
 
@@ -72,7 +72,7 @@ To flash the Ubuntu ISO Image onto our USB Drive, make sure that your USB Drive 
 
 **On Balena Etcher, click "Flash from file"**
 
-<figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Balena Etcher Interface</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption><p>Balena Etcher Interface</p></figcaption></figure>
 
 **Select Ubuntu ISO Image File**
 
