@@ -4,7 +4,7 @@ description: >-
   version/distribution (ROS2 Humble).
 ---
 
-# Installation \[ROS2 Humble]
+# Installation Guide \[ROS2 Humble]
 
 {% hint style="danger" %}
 Please make sure you have an Ubuntu 22.04 environment set up and ready to use.
@@ -149,19 +149,4 @@ As you progress further, you may deal with even more ROS environment variables, 
 Congratulations, you have now installed ROS2 Humble on your system!
 
 
-
-I recommend going through the Official ROS2 Humble Tutorials to better understand ROS!
-
-[https://docs.ros.org/en/humble/Tutorials.html](https://docs.ros.org/en/humble/Tutorials.html)\
-
-
-Some key concepts that I encourage you to look into (recommended to go down the list one by one):
-
-1. Nodes & Topics
-2. Publishers & Subscribers
-3. Services & Actions
-4. ROS File Structure & How to Write Packages
-5. Writing Launch Files
-6. ROS Utilities such as `rqt, rqt_graph` for data inspection
-7. How to record data using `ros2 bags`
 
