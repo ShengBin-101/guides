@@ -6,7 +6,7 @@ description: In this guide, we are going to setup WSL2 for Ubuntu 22.04 on Windo
 
 1. Search on Windows: "Turn Windows Features on or off" and Enable "Windows Subsystem for Linux"
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Restart your Computer
 3. Open Powershell and start installing WSL and Ubuntu Distribution of Choice
