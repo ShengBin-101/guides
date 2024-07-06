@@ -21,17 +21,15 @@ Few things to understand about ROS before we proceed:
 
 ROS is best used with an Ubuntu environment. For my guides, I am using Ubuntu 22.04 (Dual Booted on Windows). For information on how to do that, refer to the below guide.
 
-{% content-ref url="../../README (1).md" %}
-[README (1).md](<../../README (1).md>)
+{% content-ref url="ubuntu-setup-dual-booting-for-windows.md" %}
+[ubuntu-setup-dual-booting-for-windows.md](ubuntu-setup-dual-booting-for-windows.md)
 {% endcontent-ref %}
 
 Another good alternative (and easier to setup) is to use Windows Subsystem for Linux (WSL) and specifically WSL version 2 (WSL2).
 
-{% content-ref url="../../ubuntu-setup-windows-subsystem-for-linux-wsl.md" %}
-[ubuntu-setup-windows-subsystem-for-linux-wsl.md](../../ubuntu-setup-windows-subsystem-for-linux-wsl.md)
+{% content-ref url="ubuntu-setup-windows-subsystem-for-linux-wsl.md" %}
+[ubuntu-setup-windows-subsystem-for-linux-wsl.md](ubuntu-setup-windows-subsystem-for-linux-wsl.md)
 {% endcontent-ref %}
-
-
 
 2. What version of ROS should I use?&#x20;
 

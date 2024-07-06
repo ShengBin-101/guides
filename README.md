@@ -8,12 +8,12 @@ description: >-
 
 More to come.
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="ros/prerequisite/ubuntu-setup-dual-booting-for-windows.md" %}
+[ubuntu-setup-dual-booting-for-windows.md](ros/prerequisite/ubuntu-setup-dual-booting-for-windows.md)
 {% endcontent-ref %}
 
-{% content-ref url="ubuntu-setup-windows-subsystem-for-linux-wsl.md" %}
-[ubuntu-setup-windows-subsystem-for-linux-wsl.md](ubuntu-setup-windows-subsystem-for-linux-wsl.md)
+{% content-ref url="ros/prerequisite/ubuntu-setup-windows-subsystem-for-linux-wsl.md" %}
+[ubuntu-setup-windows-subsystem-for-linux-wsl.md](ros/prerequisite/ubuntu-setup-windows-subsystem-for-linux-wsl.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
