@@ -47,6 +47,42 @@ There are some differences between ROS1 and ROS2 messages:&#x20;
 
 ***
 
+## How to play ROS2 Bags (.db3)?
+
+### What should a rosbag file contain? <a href="#what-should-a-rosbag-file-contain" id="what-should-a-rosbag-file-contain"></a>
+
+```
+<bagfolder_name>
+    |_ metadata.yaml
+    |_ <bagfolder_name>.db3
+```
+
+### Playing rosbags that are .db3 files <a href="#playing-rosbags-that-are-.db3-files" id="playing-rosbags-that-are-.db3-files"></a>
+
+{% code fullWidth="false" %}
+```bash
+Install plugins
+sudo apt install ros-humble-rqt*
+sudo apt install \ ros-humble-image-transport-plugins
+```
+{% endcode %}
+
+Play Bag using any of the two commands:
+
+```
+ros2 bag play /path/to/bagfolder/bag.db3
+```
+
+```
+ros2 bag play /path/to/bagfolder
+```
+
+Use rqt to view topics,
+
+```
+rqt
+```
+
 ## How to use ROS1 Bags in ROS2?
 
 You can use [rosbags-convert](https://ternaris.gitlab.io/rosbags/index.html) tool to unpack ROS1 .bag file to .db3 files that can be played using
