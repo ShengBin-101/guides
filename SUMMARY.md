@@ -28,6 +28,7 @@
       * [Image Processing (with OpenCV)](ros/beginners-guide-to-ros/robotics-fundamentals/fundamental-concepts/image-processing-with-opencv.md)
 * [Perception](ros/perception/README.md)
   * [Camera](ros/perception/camera/README.md)
+    * [\[WSL2\] Enabling USB Camera Access](ros/perception/camera/wsl2-enabling-usb-camera-access.md)
     * [Image Common](ros/perception/camera/image-common.md)
     * [Camera Driver](ros/perception/camera/camera-driver.md)
     * [Camera Calibration](ros/perception/camera/camera-calibration.md)
