@@ -93,7 +93,7 @@ Now that we have understood what is Ubuntu, we can now move on to setting up Ubu
 
 For ROS, I strongly recommend using Ubuntu and specifically for this guide, Ubuntu 22.04.
 
-Below are guides to set up Ubuntu for Windows. Sorry to all the mac users, I believe the internet has resources for that. (Maybe I'll add a guide in the future...)
+Below are guides to set up Ubuntu for Windows and also MacOS (M1).
 
 {% content-ref url="ubuntu-setup-dual-booting-for-windows.md" %}
 [ubuntu-setup-dual-booting-for-windows.md](ubuntu-setup-dual-booting-for-windows.md)
@@ -103,3 +103,6 @@ Below are guides to set up Ubuntu for Windows. Sorry to all the mac users, I bel
 [ubuntu-setup-windows-subsystem-for-linux-wsl.md](ubuntu-setup-windows-subsystem-for-linux-wsl.md)
 {% endcontent-ref %}
 
+{% content-ref url="ubuntu-setup-vm-on-macos-m1.md" %}
+[ubuntu-setup-vm-on-macos-m1.md](ubuntu-setup-vm-on-macos-m1.md)
+{% endcontent-ref %}

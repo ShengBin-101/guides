@@ -8,6 +8,7 @@
   * [Prerequisites](ros/beginners-guide-to-ros/prerequisites/README.md)
     * [💻 Ubuntu Setup - Windows Subsystem for Linux (WSL)](ros/beginners-guide-to-ros/prerequisites/ubuntu-setup-windows-subsystem-for-linux-wsl.md)
     * [💻 Ubuntu Setup - Dual Booting (For Windows)](ros/beginners-guide-to-ros/prerequisites/ubuntu-setup-dual-booting-for-windows.md)
+    * [💻 Ubuntu Setup - VM on MacOS M1](ros/beginners-guide-to-ros/prerequisites/ubuntu-setup-vm-on-macos-m1.md)
   * [ROS Installation](ros/beginners-guide-to-ros/ros-installation/README.md)
     * [Installation Guide \[ROS2 Humble\]](ros/beginners-guide-to-ros/ros-installation/installation-guide-ros2-humble.md)
   * [ROS Concepts](ros/beginners-guide-to-ros/ros-concepts.md)
